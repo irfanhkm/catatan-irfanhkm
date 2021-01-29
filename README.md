@@ -1,2 +1,3 @@
 # Catatan Irfanhkm
-catatan.irfanhkm.com (otw deploy)
+
+visit : Live web (catatan.irfanhkm.com)
