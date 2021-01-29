@@ -1,3 +1,3 @@
 # Catatan Irfanhkm
 
-visit : Live web (catatan.irfanhkm.com)
+[visit](catatan.irfanhkm.com)
