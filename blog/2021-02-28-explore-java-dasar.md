@@ -11,31 +11,31 @@ Explore lagi explore lagi. Kali ini explorenya ttg java. Utk detailnya ada disin
 
 ### List yang dipelajari
 - [x] input & output
-    - [HelloWorld.java](https://github.com/irfanhkm/belajar-java/blob/master/src/HelloWorld.java)
+    - [HelloWorld.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/HelloWorld.java)
 - [x] data type (number, string, char, boolean) 
-    - [NumberDataType.java](https://github.com/irfanhkm/belajar-java/blob/master/src/NumberDataType.java)
-    - [CharStringBooleanDataType.java](https://github.com/irfanhkm/belajar-java/blob/master/src/CharStringBooleanDataType.java)
+    - [NumberDataType.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/NumberDataType.java)
+    - [CharStringBooleanDataType.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/CharStringBooleanDataType.java)
 - [x] variable (variable, var, final)
-    - [Variable.java](https://github.com/irfanhkm/belajar-java/blob/master/src/Variable.java)
+    - [Variable.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/Variable.java)
 - [x] primitive, non primitive
-    - [PrimitiveDataType.java](https://github.com/irfanhkm/belajar-java/blob/master/src/PrimitiveDataType.java)
+    - [PrimitiveDataType.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/PrimitiveDataType.java)
 - [x] array
-    - [Array.java](https://github.com/irfanhkm/belajar-java/blob/master/src/Array.java)
+    - [Array.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/Array.java)
 - [x] stack
-    - [StackExample.java](https://github.com/irfanhkm/belajar-java/blob/master/src/StackExample.java)
+    - [StackExample.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/StackExample.java)
 - [x] arithmetic operation
-    - [StackExample.java](https://github.com/irfanhkm/belajar-java/blob/master/src/ArithmeticOperation.java)
+    - [StackExample.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/ArithmeticOperation.java)
 - [x] comparison
-    - [Comparison.java](https://github.com/irfanhkm/belajar-java/blob/master/src/Comparison.java)
+    - [Comparison.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/Comparison.java)
 - [x] statement (if else, switch, ternary operator).
-    - [Statement.java](https://github.com/irfanhkm/belajar-java/blob/master/src/Statement.java)
+    - [Statement.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/Statement.java)
 - [x] looping
-    - [Looping.java](https://github.com/irfanhkm/belajar-java/blob/master/src/Looping.java)
+    - [Looping.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/Looping.java)
 - [x] method
-    - [Method.java](https://github.com/irfanhkm/belajar-java/blob/master/src/Method.java)
+    - [Method.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/Method.java)
 - [x] method overloading
-    - [OverLoading.java](https://github.com/irfanhkm/belajar-java/blob/master/src/OverLoading.java)
+    - [OverLoading.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/OverLoading.java)
 - [x] recursive
-    - [RecursiveMethod.java](https://github.com/irfanhkm/belajar-java/blob/master/src/RecursiveMethod.java)
+    - [RecursiveMethod.java](https://github.com/irfanhkm/belajar-java/blob/master/src/basic/RecursiveMethod.java)
 
 
