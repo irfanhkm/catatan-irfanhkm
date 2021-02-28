@@ -1,14 +1,11 @@
 ---
 slug: install-java-jdk
-title: Install JAVA JDK
-author: irfan
-author_title: jabatan tanpa nama
+title: Install Java JDK
+author: Irfan
 author_url: https://github.com/irfanhkm
 author_image_url: https://secure.gravatar.com/avatar/80095a2b492f81710481d3e0f4d14e6d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIH-0.png
 tags: [java, tutorial]
 ---
-
-Explore lagi explore lagi. Kali ini explorenya ttg java. Utk detailnya ada disini https://github.com/irfanhkm/belajar-java
 
 1. Download dari http://jdk.java.net/15/
 2. Extract file

@@ -1,2 +1,3 @@
 # Catatan Irfanhkm
-catatan.irfanhkm.com (otw deploy)
+
+[visit](https://catatan.irfanhkm.com)
